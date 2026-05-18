@@ -1,3 +1,6 @@
+Name: B.Khaja Rasool
+
+Reg No: 212224230040
 ## Integration of a Mathematical Calulations with a Chat Completion System using LLM Function-Calling
 
 ### AIM:
